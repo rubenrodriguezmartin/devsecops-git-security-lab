@@ -1,4 +1,4 @@
-# Practica 2.2
+# 01-auditoria-historial-git
 ### Repositorio --> Angular
 
 ![alt text](imagenes/image.png)

@@ -1,4 +1,4 @@
-# Practica 2.9
+# 08-escaneo-remoto-secretos
 
 Para esta practica vamos a usar trafflehog pero destinado a repositorios remotos
 El comando es practicamente el mismo que en el ejercicicio anterior, lo unico que cambia es la ruta en la que la herramineta busca que en este caso es la de un repositorio remoto.

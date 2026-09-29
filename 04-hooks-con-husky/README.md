@@ -1,4 +1,4 @@
-# Práctica 2.5: Hooks con Husky
+# 04-hooks-con-husky
 
 ## Instalación de Husky
 Para instalar Husky, utilizaremos el gestor de paquetes npm. Ejecutamos los comandos necesarios para inicializar el proyecto e instalar la herramienta.

@@ -1,4 +1,4 @@
-# Práctica 2.8: Auditoría Forense de Credenciales con TruffleHog (Local)
+# 07-deteccion-remediacion-secretos
 
 ## Instalación de TruffleHog
 Instalamos la versión más moderna de TruffleHog (v3) directamente en el sistema operativo.

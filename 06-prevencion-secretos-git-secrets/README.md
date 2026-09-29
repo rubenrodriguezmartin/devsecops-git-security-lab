@@ -1,4 +1,4 @@
-# Práctica 2.7: Securizando GIT con Git-Secrets
+# 06-prevencion-secretos-git-secrets
 
 ## Instalación de git-secrets
 Realizamos la instalación desde el repositorio oficial siguiendo la documentación del proveedor:

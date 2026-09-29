@@ -1,4 +1,4 @@
-# Practica 2.3 
+# 02-flujo-gitflow
 Para empezar la practica primero hemos creado un directorio de trabajo, hemos iniciado git y hemos creado la rama masterrodriguezmartin.
 
 ![alt text](imagenes/image.png)

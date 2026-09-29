@@ -1,4 +1,4 @@
-# Practica 2.4
+# 03-hooks-nativos-git/
 
 Para la configuracion de estos script nos tenemos que ir al directorio .git/hooks donde crearemos los hooks y pegaremos el codigo que se nos ha dado.
 

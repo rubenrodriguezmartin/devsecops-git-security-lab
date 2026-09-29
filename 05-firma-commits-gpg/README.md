@@ -1,4 +1,4 @@
-# Práctica 2.6: Firmado de Commits con GPG
+# 05-firma-commits-gpg
 
 ## Generar Claves
 Comenzamos generando el par de claves GPG que utilizaremos para firmar digitalmente nuestros commits.
