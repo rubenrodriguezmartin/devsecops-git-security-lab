@@ -1,0 +1,1 @@
+// Arreglo para tiempo negativo

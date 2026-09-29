@@ -1,0 +1,2 @@
+user=admin
+pass=CONTRASEÑA_SUPER_SECRETA
